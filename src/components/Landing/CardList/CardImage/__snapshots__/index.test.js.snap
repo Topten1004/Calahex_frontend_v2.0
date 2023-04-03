@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardImage should render image correctly with given strings 1`] = `
+<ForwardRef(Box)
+  className="makeStyles-root-1"
+>
+  <ForwardRef(Box)
+    component="img"
+    src="trading_img.jpg"
+  />
+</ForwardRef(Box)>
+`;

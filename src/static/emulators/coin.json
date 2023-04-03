@@ -1,0 +1,50 @@
+[
+    {
+        "coin" : "BTC",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "ETH",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "USDT",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "OM",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "ZKS",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "LIVE",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "DASH",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    },
+    {
+        "coin" : "DAI",
+        "total" : "140.658",
+        "available" : "0.00358",
+        "order" : "0.000"
+    }
+]

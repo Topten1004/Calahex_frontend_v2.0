@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Title renders correctly 1`] = `
+<div
+  className="makeStyles-root-1 MuiBox-root css-0"
+>
+  <div
+    className="makeStyles-title-2 MuiBox-root css-0"
+  >
+    Caribbean and Latin America
+  </div>
+  <div
+    className="makeStyles-title-2 MuiBox-root css-0"
+  >
+    Hybrid Exchange
+  </div>
+</div>
+`;

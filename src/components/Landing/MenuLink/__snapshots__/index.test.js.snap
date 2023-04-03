@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MenuLink renders correctly 1`] = `
+<div
+  className="makeStyles-root-1 MuiBox-root css-0"
+>
+  <div
+    className="MuiGrid-root MuiGrid-container css-11lq3yg-MuiGrid-root"
+  >
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 makeStyles-menuLink-2 css-1idn90j-MuiGrid-root"
+    >
+      <a
+        href="/cryptoexchange"
+        onClick={[Function]}
+      >
+        Crpyto Exchange
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 makeStyles-menuLink-2 css-1idn90j-MuiGrid-root"
+    >
+      <a
+        href="/wallet"
+        onClick={[Function]}
+      >
+        Wallet
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 makeStyles-menuLink-2 css-1idn90j-MuiGrid-root"
+    >
+      <a
+        href="/buycrypto"
+        onClick={[Function]}
+      >
+        Buy Crpyto
+      </a>
+    </div>
+    <div
+      className="MuiGrid-root MuiGrid-item MuiGrid-grid-xs-12 makeStyles-menuLink-2 css-1idn90j-MuiGrid-root"
+    >
+      <a
+        href="/caxrewards"
+        onClick={[Function]}
+      >
+        CAX Rewards
+      </a>
+    </div>
+  </div>
+</div>
+`;
